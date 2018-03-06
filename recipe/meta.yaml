@@ -1,6 +1,6 @@
 {% set name = "serpy" %}
-{% set version = "0.2.0" %}
-{% set sha256 = "7e62e242321b208362966d5ab32b45df93b1cb88da4ce6260277da060b4f7475" %}
+{% set version = "0.3.1" %}
+{% set sha256 = "3772b2a9923fbf674000ff51abebf6ea8f0fca0a2cfcbfa0d63ff118193d1ec5" %}
 
 package:
   name: {{ name|lower }}
